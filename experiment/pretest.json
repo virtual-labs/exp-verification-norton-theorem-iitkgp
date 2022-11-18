@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The Norton current is the_______",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Short circuit current",
+        "b": "Open circuit current",
+        "c": "Open circuit and short circuit current",
+        "d": "Neither open circuit nor short circuit current"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen the correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Norton resistance is found by?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Shorting all voltage sources",
+        "b": "Opening all current sources",
+        "c": "Shorting all voltage sources and opening all current sources",
+        "d": "Opening all voltage sources and shorting all current sources"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen the wrong answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen correct answer",
+        "d": "you have chosen wrong answer"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Norton’s theorem is true for __________",
+      "answers": {
+        "a": "Linear networks",
+        "b": "Non-Linear networks",
+        "c": "Both linear networks and nonlinear networks",
+        "d": "Neither linear networks nor non-linear networks"
+      },
+      "explanations": {
+        "a": "You have chosen the correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
     }
+
+
   ]
 }

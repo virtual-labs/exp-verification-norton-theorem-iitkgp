@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Find Norton’s equivalent circuit for the network at the left end of the terminals 1-2 . Assume I = I=5<0º A.<br><p style=\"text-align:center\"><img src=\"images/quiz1.jpg\" style=\"width:450px;height:330px;\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Isc=3.45<28.39ºA , Zin=2.33<-76.75ºΩ",
+        "b": "Isc=6.45<28.39ºA , Zin=7.33<-76.75ºΩ",
+        "c": "Isc=3.45<28.39ºA , Zin=7.33<-76.75ºΩ",
+        "d": "Isc=6.45<28.39ºA , Zin=2.33<-76.75ºΩ"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen the correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Find the current through the 5Ω resistor in the circuit.<br/><p style=\"text-align:center\"><img src=\"images/quiz2.jpg\" style=\"width:450px;height:330px;\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "515.6 mA.",
+        "b": "513.6 mA.",
+        "c": "511.6 mA.",
+        "d": "509.6 mA."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen the wrong answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen correct answer"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Find the Norton’s equivalent circuit across a-b for the network .<br/><p style=\"text-align:center\"><img src=\"images/quiz3.jpg\" style=\"width:450px;height:330px;\"></p>",
+      "answers": {
+        "a": "Is.c.= -4.6 A Rint =3.43Ω",
+        "b": "Is.c.= -4.6 A Rint = 1.43Ω",
+        "c": "Is.c.=4.6 A Rint =3.43Ω",
+        "d": "Is.c.=4.6 A Rint =2.43Ω."
+      },
+      "explanations": {
+        "a": "You have chosen the wrong answer",
+        "b": "you have chosen correct answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
