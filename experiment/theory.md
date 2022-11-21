@@ -33,4 +33,5 @@ $$I_{L}= I_{s/c}\frac{R_{int}}{R_{int}+R_L}$$
 </p><br><br><br>
 </p>
 </div>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
                     
