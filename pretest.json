@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The Norton current is the_______",
+      "answers": {
+        "a": "Short circuit current",
+        "b": "Open circuit current",
+        "c": "Open circuit and short circuit current",
+        "d": "Neither open circuit nor short circuit current"
+      },
+      "explanations": {
+        "a": "You have chosen the correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Norton resistance is found by?",
+      "answers": {
+        "a": "Shorting all voltage sources",
+        "b": "Opening all current sources",
+        "c": "Shorting all voltage sources and opening all current sources",
+        "d": "Opening all voltage sources and shorting all current sources"
+      },
+      "explanations": {
+        "a": "You have chosen the wrong answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen correct answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Norton’s theorem is true for __________",
+      "answers": {
+        "a": "Linear networks",
+        "b": "Non-Linear networks",
+        "c": "Both linear networks and nonlinear networks",
+        "d": "Neither linear networks nor non-linear networks"
+      },
+      "explanations": {
+        "a": "You have chosen the correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+
+
+  ]
+}
